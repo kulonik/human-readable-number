@@ -1202,4 +1202,964 @@ module.exports = function toReadable(number) {
     if (number === 400) {
         return "four hundred";
     }
+    if (number === 401) {
+        return "four hundred one";
+    }
+    if (number === 402) {
+        return "four hundred two";
+    }
+    if (number === 403) {
+        return "four hundred three";
+    }
+    if (number === 404) {
+        return "four hundred four";
+    }
+    if (number === 405) {
+        return "four hundred five";
+    }
+    if (number === 406) {
+        return "four hundred six";
+    }
+    if (number === 407) {
+        return "four hundred seven";
+    }
+    if (number === 408) {
+        return "four hundred eight";
+    }
+    if (number === 409) {
+        return "four hundred nine";
+    }
+    if (number === 410) {
+        return "four hundred ten";
+    }
+    if (number === 411) {
+        return "four hundred eleven";
+    }
+    if (number === 412) {
+        return "four hundred twelve";
+    }
+    if (number === 413) {
+        return "four hundred thirteen";
+    }
+    if (number === 414) {
+        return "four hundred fourteen";
+    }
+    if (number === 415) {
+        return "four hundred fifteen";
+    }
+    if (number === 416) {
+        return "four hundred sixteen";
+    }
+    if (number === 417) {
+        return "four hundred seventeen";
+    }
+    if (number === 418) {
+        return "four hundred eighteen";
+    }
+    if (number === 419) {
+        return "four hundred nineteen";
+    }
+    if (number === 420) {
+        return "four hundred twenty";
+    }
+    if (number === 421) {
+        return "four hundred twenty one";
+    }
+    if (number === 422) {
+        return "four hundred twenty two";
+    }
+    if (number === 423) {
+        return "four hundred twenty three";
+    }
+    if (number === 424) {
+        return "four hundred twenty four";
+    }
+    if (number === 425) {
+        return "four hundred twenty five";
+    }
+    if (number === 426) {
+        return "four hundred twenty six";
+    }
+    if (number === 427) {
+        return "four hundred twenty seven";
+    }
+    if (number === 428) {
+        return "four hundred twenty eight";
+    }
+    if (number === 429) {
+        return "four hundred twenty nine";
+    }
+    if (number === 430) {
+        return "four hundred thirty";
+    }
+    if (number === 431) {
+        return "four hundred thirty one";
+    }
+    if (number === 432) {
+        return "four hundred thirty two";
+    }
+    if (number === 433) {
+        return "four hundred thirty three";
+    }
+    if (number === 434) {
+        return "four hundred thirty four";
+    }
+    if (number === 435) {
+        return "four hundred thirty five";
+    }
+    if (number === 436) {
+        return "four hundred thirty six";
+    }
+    if (number === 437) {
+        return "four hundred thirty seven";
+    }
+    if (number === 438) {
+        return "four hundred thirty eight";
+    }
+    if (number === 439) {
+        return "four hundred thirty nine";
+    }
+    if (number === 440) {
+        return "four hundred forty";
+    }
+    if (number === 441) {
+        return "four hundred forty one";
+    }
+    if (number === 442) {
+        return "four hundred forty two";
+    }
+    if (number === 443) {
+        return "four hundred forty three";
+    }
+    if (number === 444) {
+        return "four hundred forty four";
+    }
+    if (number === 445) {
+        return "four hundred forty five";
+    }
+    if (number === 446) {
+        return "four hundred forty six";
+    }
+    if (number === 447) {
+        return "four hundred forty seven";
+    }
+    if (number === 448) {
+        return "four hundred forty eight";
+    }
+    if (number === 449) {
+        return "four hundred forty nine";
+    }
+    if (number === 450) {
+        return "four hundred fifty";
+    }
+    if (number === 451) {
+        return "four hundred fifty one";
+    }
+    if (number === 452) {
+        return "four hundred fifty two";
+    }
+    if (number === 453) {
+        return "four hundred fifty three";
+    }
+    if (number === 454) {
+        return "four hundred fifty four";
+    }
+    if (number === 455) {
+        return "four hundred fifty five";
+    }
+    if (number === 456) {
+        return "four hundred fifty six";
+    }
+    if (number === 457) {
+        return "four hundred fifty seven";
+    }
+    if (number === 458) {
+        return "four hundred fifty eight";
+    }
+    if (number === 459) {
+        return "four hundred fifty nine";
+    }
+    if (number === 460) {
+        return "four hundred sixty";
+    }
+    if (number === 461) {
+        return "four hundred sixty one";
+    }
+    if (number === 462) {
+        return "four hundred sixty two";
+    }
+    if (number === 463) {
+        return "four hundred sixty three";
+    }
+    if (number === 464) {
+        return "four hundred sixty four";
+    }
+    if (number === 465) {
+        return "four hundred sixty five";
+    }
+    if (number === 466) {
+        return "four hundred sixty six";
+    }
+    if (number === 467) {
+        return "four hundred sixty seven";
+    }
+    if (number === 468) {
+        return "four hundred sixty eight";
+    }
+    if (number === 469) {
+        return "four hundred sixty nine";
+    }
+    if (number === 470) {
+        return "four hundred seventy";
+    }
+    if (number === 471) {
+        return "four hundred seventy one";
+    }
+    if (number === 472) {
+        return "four hundred seventy two";
+    }
+    if (number === 473) {
+        return "four hundred seventy three";
+    }
+    if (number === 474) {
+        return "four hundred seventy four";
+    }
+    if (number === 475) {
+        return "four hundred seventy five";
+    }
+    if (number === 476) {
+        return "four hundred seventy six";
+    }
+    if (number === 477) {
+        return "four hundred seventy seven";
+    }
+    if (number === 478) {
+        return "four hundred seventy eight";
+    }
+    if (number === 479) {
+        return "four hundred seventy nine";
+    }
+    if (number === 480) {
+        return "four hundred eighty";
+    }
+    if (number === 481) {
+        return "four hundred eighty one";
+    }
+    if (number === 482) {
+        return "four hundred eighty two";
+    }
+    if (number === 483) {
+        return "four hundred eighty three";
+    }
+    if (number === 484) {
+        return "four hundred eighty four";
+    }
+    if (number === 485) {
+        return "four hundred eighty five";
+    }
+    if (number === 486) {
+        return "four hundred eighty six";
+    }
+    if (number === 487) {
+        return "four hundred eighty seven";
+    }
+    if (number === 488) {
+        return "four hundred eighty eight";
+    }
+    if (number === 489) {
+        return "four hundred eighty nine";
+    }
+    if (number === 490) {
+        return "four hundred ninety";
+    }
+    if (number === 491) {
+        return "four hundred ninety one";
+    }
+    if (number === 492) {
+        return "four hundred ninety two";
+    }
+    if (number === 493) {
+        return "four hundred ninety three";
+    }
+    if (number === 494) {
+        return "four hundred ninety four";
+    }
+    if (number === 495) {
+        return "four hundred ninety five";
+    }
+    if (number === 496) {
+        return "four hundred ninety six";
+    }
+    if (number === 497) {
+        return "four hundred ninety seven";
+    }
+    if (number === 498) {
+        return "four hundred ninety eight";
+    }
+    if (number === 499) {
+        return "four hundred ninety nine";
+    }
+    if (number === 500) {
+        return "five hundred";
+    }
+    if (number === 501) {
+        return "five hundred one";
+    }
+    if (number === 502) {
+        return "five hundred two";
+    }
+    if (number === 503) {
+        return "five hundred three";
+    }
+    if (number === 504) {
+        return "five hundred four";
+    }
+    if (number === 505) {
+        return "five hundred five";
+    }
+    if (number === 506) {
+        return "five hundred six";
+    }
+    if (number === 507) {
+        return "five hundred seven";
+    }
+    if (number === 508) {
+        return "five hundred eight";
+    }
+    if (number === 509) {
+        return "five hundred nine";
+    }
+    if (number === 510) {
+        return "five hundred ten";
+    }
+    if (number === 511) {
+        return "five hundred eleven";
+    }
+    if (number === 512) {
+        return "five hundred twelve";
+    }
+    if (number === 513) {
+        return "five hundred thirteen";
+    }
+    if (number === 514) {
+        return "five hundred fourteen";
+    }
+    if (number === 515) {
+        return "five hundred fifteen";
+    }
+    if (number === 516) {
+        return "five hundred sixteen";
+    }
+    if (number === 517) {
+        return "five hundred seventeen";
+    }
+    if (number === 518) {
+        return "five hundred eighteen";
+    }
+    if (number === 519) {
+        return "five hundred nineteen";
+    }
+    if (number === 520) {
+        return "five hundred twenty";
+    }
+    if (number === 521) {
+        return "five hundred twenty one";
+    }
+    if (number === 522) {
+        return "five hundred twenty two";
+    }
+    if (number === 523) {
+        return "five hundred twenty three";
+    }
+    if (number === 524) {
+        return "five hundred twenty four";
+    }
+    if (number === 525) {
+        return "five hundred twenty five";
+    }
+    if (number === 526) {
+        return "five hundred twenty six";
+    }
+    if (number === 527) {
+        return "five hundred twenty seven";
+    }
+    if (number === 528) {
+        return "five hundred twenty eight";
+    }
+    if (number === 529) {
+        return "five hundred twenty nine";
+    }
+    if (number === 530) {
+        return "five hundred thirty";
+    }
+    if (number === 531) {
+        return "five hundred thirty one";
+    }
+    if (number === 532) {
+        return "five hundred thirty two";
+    }
+    if (number === 533) {
+        return "five hundred thirty three";
+    }
+    if (number === 534) {
+        return "five hundred thirty four";
+    }
+    if (number === 535) {
+        return "five hundred thirty five";
+    }
+    if (number === 536) {
+        return "five hundred thirty six";
+    }
+    if (number === 537) {
+        return "five hundred thirty seven";
+    }
+    if (number === 538) {
+        return "five hundred thirty eight";
+    }
+    if (number === 539) {
+        return "five hundred thirty nine";
+    }
+    if (number === 540) {
+        return "five hundred forty";
+    }
+    if (number === 541) {
+        return "five hundred forty one";
+    }
+    if (number === 542) {
+        return "five hundred forty two";
+    }
+    if (number === 543) {
+        return "five hundred forty three";
+    }
+    if (number === 544) {
+        return "five hundred forty four";
+    }
+    if (number === 545) {
+        return "five hundred forty five";
+    }
+    if (number === 546) {
+        return "five hundred forty six";
+    }
+    if (number === 547) {
+        return "five hundred forty seven";
+    }
+    if (number === 548) {
+        return "five hundred forty eight";
+    }
+    if (number === 549) {
+        return "five hundred forty nine";
+    }
+    if (number === 550) {
+        return "five hundred fifty";
+    }
+    if (number === 551) {
+        return "five hundred fifty one";
+    }
+    if (number === 552) {
+        return "five hundred fifty two";
+    }
+    if (number === 553) {
+        return "five hundred fifty three";
+    }
+    if (number === 554) {
+        return "five hundred fifty four";
+    }
+    if (number === 555) {
+        return "five hundred fifty five";
+    }
+    if (number === 556) {
+        return "five hundred fifty six";
+    }
+    if (number === 557) {
+        return "five hundred fifty seven";
+    }
+    if (number === 558) {
+        return "five hundred fifty eight";
+    }
+    if (number === 559) {
+        return "five hundred fifty nine";
+    }
+    if (number === 560) {
+        return "five hundred sixty";
+    }
+    if (number === 561) {
+        return "five hundred sixty one";
+    }
+    if (number === 562) {
+        return "five hundred sixty two";
+    }
+    if (number === 563) {
+        return "five hundred sixty three";
+    }
+    if (number === 564) {
+        return "five hundred sixty four";
+    }
+    if (number === 565) {
+        return "five hundred sixty five";
+    }
+    if (number === 566) {
+        return "five hundred sixty six";
+    }
+    if (number === 567) {
+        return "five hundred sixty seven";
+    }
+    if (number === 568) {
+        return "five hundred sixty eight";
+    }
+    if (number === 569) {
+        return "five hundred sixty nine";
+    }
+    if (number === 570) {
+        return "five hundred seventy";
+    }
+    if (number === 571) {
+        return "five hundred seventy one";
+    }
+    if (number === 572) {
+        return "five hundred seventy two";
+    }
+    if (number === 573) {
+        return "five hundred seventy three";
+    }
+    if (number === 574) {
+        return "five hundred seventy four";
+    }
+    if (number === 575) {
+        return "five hundred seventy five";
+    }
+    if (number === 576) {
+        return "five hundred seventy six";
+    }
+    if (number === 577) {
+        return "five hundred seventy seven";
+    }
+    if (number === 578) {
+        return "five hundred seventy eight";
+    }
+    if (number === 579) {
+        return "five hundred seventy nine";
+    }
+    if (number === 580) {
+        return "five hundred eighty";
+    }
+    if (number === 581) {
+        return "five hundred eighty one";
+    }
+    if (number === 582) {
+        return "five hundred eighty two";
+    }
+    if (number === 583) {
+        return "five hundred eighty three";
+    }
+    if (number === 584) {
+        return "five hundred eighty four";
+    }
+    if (number === 585) {
+        return "five hundred eighty five";
+    }
+    if (number === 586) {
+        return "five hundred eighty six";
+    }
+    if (number === 587) {
+        return "five hundred eighty seven";
+    }
+    if (number === 588) {
+        return "five hundred eighty eight";
+    }
+    if (number === 589) {
+        return "five hundred eighty nine";
+    }
+    if (number === 590) {
+        return "five hundred ninety";
+    }
+    if (number === 591) {
+        return "five hundred ninety one";
+    }
+    if (number === 592) {
+        return "five hundred ninety two";
+    }
+    if (number === 593) {
+        return "five hundred ninety three";
+    }
+    if (number === 594) {
+        return "five hundred ninety four";
+    }
+    if (number === 595) {
+        return "five hundred ninety five";
+    }
+    if (number === 596) {
+        return "five hundred ninety six";
+    }
+    if (number === 597) {
+        return "five hundred ninety seven";
+    }
+    if (number === 598) {
+        return "five hundred ninety eight";
+    }
+    if (number === 599) {
+        return "five hundred ninety nine";
+    }
+    if (number === 600) {
+        return "six hundred";
+    }
+    if (number === 601) {
+        return "six hundred one";
+    }
+    if (number === 602) {
+        return "six hundred two";
+    }
+    if (number === 603) {
+        return "six hundred three";
+    }
+    if (number === 604) {
+        return "six hundred four";
+    }
+    if (number === 605) {
+        return "six hundred five";
+    }
+    if (number === 606) {
+        return "six hundred six";
+    }
+    if (number === 607) {
+        return "six hundred seven";
+    }
+    if (number === 608) {
+        return "six hundred eight";
+    }
+    if (number === 609) {
+        return "six hundred nine";
+    }
+    if (number === 610) {
+        return "six hundred ten";
+    }
+    if (number === 611) {
+        return "six hundred eleven";
+    }
+    if (number === 612) {
+        return "six hundred twelve";
+    }
+    if (number === 613) {
+        return "six hundred thirteen";
+    }
+    if (number === 614) {
+        return "six hundred fourteen";
+    }
+    if (number === 615) {
+        return "six hundred fifteen";
+    }
+    if (number === 616) {
+        return "six hundred sixteen";
+    }
+    if (number === 617) {
+        return "six hundred seventeen";
+    }
+    if (number === 618) {
+        return "six hundred eighteen";
+    }
+    if (number === 619) {
+        return "six hundred nineteen";
+    }
+    if (number === 620) {
+        return "six hundred twenty";
+    }
+    if (number === 621) {
+        return "six hundred twenty one";
+    }
+    if (number === 622) {
+        return "six hundred twenty two";
+    }
+    if (number === 623) {
+        return "six hundred twenty three";
+    }
+    if (number === 624) {
+        return "six hundred twenty four";
+    }
+    if (number === 625) {
+        return "six hundred twenty five";
+    }
+    if (number === 626) {
+        return "six hundred twenty six";
+    }
+    if (number === 627) {
+        return "six hundred twenty seven";
+    }
+    if (number === 628) {
+        return "six hundred twenty eight";
+    }
+    if (number === 629) {
+        return "six hundred twenty nine";
+    }
+    if (number === 630) {
+        return "six hundred thirty";
+    }
+    if (number === 631) {
+        return "six hundred thirty one";
+    }
+    if (number === 632) {
+        return "six hundred thirty two";
+    }
+    if (number === 633) {
+        return "six hundred thirty three";
+    }
+    if (number === 634) {
+        return "six hundred thirty four";
+    }
+    if (number === 635) {
+        return "six hundred thirty five";
+    }
+    if (number === 636) {
+        return "six hundred thirty six";
+    }
+    if (number === 637) {
+        return "six hundred thirty seven";
+    }
+    if (number === 638) {
+        return "six hundred thirty eight";
+    }
+    if (number === 639) {
+        return "six hundred thirty nine";
+    }
+    if (number === 640) {
+        return "six hundred forty";
+    }
+    if (number === 641) {
+        return "six hundred forty one";
+    }
+    if (number === 642) {
+        return "six hundred forty two";
+    }
+    if (number === 643) {
+        return "six hundred forty three";
+    }
+    if (number === 644) {
+        return "six hundred forty four";
+    }
+    if (number === 645) {
+        return "six hundred forty five";
+    }
+    if (number === 646) {
+        return "six hundred forty six";
+    }
+    if (number === 647) {
+        return "six hundred forty seven";
+    }
+    if (number === 648) {
+        return "six hundred forty eight";
+    }
+    if (number === 649) {
+        return "six hundred forty nine";
+    }
+    if (number === 650) {
+        return "six hundred fifty";
+    }
+    if (number === 651) {
+        return "six hundred fifty one";
+    }
+    if (number === 652) {
+        return "six hundred fifty two";
+    }
+    if (number === 653) {
+        return "six hundred fifty three";
+    }
+    if (number === 654) {
+        return "six hundred fifty four";
+    }
+    if (number === 655) {
+        return "six hundred fifty five";
+    }
+    if (number === 656) {
+        return "six hundred fifty six";
+    }
+    if (number === 657) {
+        return "six hundred fifty seven";
+    }
+    if (number === 658) {
+        return "six hundred fifty eight";
+    }
+    if (number === 659) {
+        return "six hundred fifty nine";
+    }
+    if (number === 660) {
+        return "six hundred sixty";
+    }
+    if (number === 661) {
+        return "six hundred sixty one";
+    }
+    if (number === 662) {
+        return "six hundred sixty two";
+    }
+    if (number === 663) {
+        return "six hundred sixty three";
+    }
+    if (number === 664) {
+        return "six hundred sixty four";
+    }
+    if (number === 665) {
+        return "six hundred sixty five";
+    }
+    if (number === 666) {
+        return "six hundred sixty six";
+    }
+    if (number === 667) {
+        return "six hundred sixty seven";
+    }
+    if (number === 668) {
+        return "six hundred sixty eight";
+    }
+    if (number === 669) {
+        return "six hundred sixty nine";
+    }
+    if (number === 670) {
+        return "six hundred seventy";
+    }
+    if (number === 671) {
+        return "six hundred seventy one";
+    }
+    if (number === 672) {
+        return "six hundred seventy two";
+    }
+    if (number === 673) {
+        return "six hundred seventy three";
+    }
+    if (number === 674) {
+        return "six hundred seventy four";
+    }
+    if (number === 675) {
+        return "six hundred seventy five";
+    }
+    if (number === 676) {
+        return "six hundred seventy six";
+    }
+    if (number === 677) {
+        return "six hundred seventy seven";
+    }
+    if (number === 678) {
+        return "six hundred seventy eight";
+    }
+    if (number === 679) {
+        return "six hundred seventy nine";
+    }
+    if (number === 680) {
+        return "six hundred eighty";
+    }
+    if (number === 681) {
+        return "six hundred eighty one";
+    }
+    if (number === 682) {
+        return "six hundred eighty two";
+    }
+    if (number === 683) {
+        return "six hundred eighty three";
+    }
+    if (number === 684) {
+        return "six hundred eighty four";
+    }
+    if (number === 685) {
+        return "six hundred eighty five";
+    }
+    if (number === 686) {
+        return "six hundred eighty six";
+    }
+    if (number === 687) {
+        return "six hundred eighty seven";
+    }
+    if (number === 688) {
+        return "six hundred eighty eight";
+    }
+    if (number === 689) {
+        return "six hundred eighty nine";
+    }
+    if (number === 690) {
+        return "six hundred ninety";
+    }
+    if (number === 691) {
+        return "six hundred ninety one";
+    }
+    if (number === 692) {
+        return "six hundred ninety two";
+    }
+    if (number === 693) {
+        return "six hundred ninety three";
+    }
+    if (number === 694) {
+        return "six hundred ninety four";
+    }
+    if (number === 695) {
+        return "six hundred ninety five";
+    }
+    if (number === 696) {
+        return "six hundred ninety six";
+    }
+    if (number === 697) {
+        return "six hundred ninety seven";
+    }
+    if (number === 698) {
+        return "six hundred ninety eight";
+    }
+    if (number === 699) {
+        return "six hundred ninety nine";
+    }
+    if (number === 700) {
+        return "seven hundred";
+    }
+    if (number === 701) {
+        return "seven hundred one";
+    }
+    if (number === 702) {
+        return "seven hundred two";
+    }
+    if (number === 703) {
+        return "seven hundred three";
+    }
+    if (number === 704) {
+        return "seven hundred four";
+    }
+    if (number === 705) {
+        return "seven hundred five";
+    }
+    if (number === 706) {
+        return "seven hundred six";
+    }
+    if (number === 707) {
+        return "seven hundred seven";
+    }
+    if (number === 708) {
+        return "seven hundred eight";
+    }
+    if (number === 709) {
+        return "seven hundred nine";
+    }
+    if (number === 710) {
+        return "seven hundred ten";
+    }
+    if (number === 711) {
+        return "seven hundred eleven";
+    }
+    if (number === 712) {
+        return "seven hundred twelve";
+    }
+    if (number === 713) {
+        return "seven hundred thirteen";
+    }
+    if (number === 714) {
+        return "seven hundred fourteen";
+    }
+    if (number === 715) {
+        return "seven hundred fifteen";
+    }
+    if (number === 716) {
+        return "seven hundred sixteen";
+    }
+    if (number === 717) {
+        return "seven hundred seventeen";
+    }
+    if (number === 718) {
+        return "seven hundred eighteen";
+    }
+    if (number === 719) {
+        return "seven hundred nineteen";
+    }
+    if (number === 720) {
+        return "seven hundred twenty";
+    }
 };
