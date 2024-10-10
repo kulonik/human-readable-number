@@ -154,13 +154,13 @@ function toReadable(number) {
             } else {
                 return `${words[numArr[0]]} hundred`;
             }
+    }
         } else {
             return `${words[number]}`;
         }
-    }
 }
     
 
 
-console.log(toReadable(522));
+console.log(toReadable(804));
 toReadable(153);
