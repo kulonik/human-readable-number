@@ -159,4 +159,3 @@ module.exports = function toReadable(number) {
             return `${words[number]}`;
         }
 }
-console.log(toReadable(811));
