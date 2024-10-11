@@ -1,4 +1,4 @@
-function toReadable(number) {
+(function toReadable(number) {
     let dozens;
     let words = {
         0: 'zero',
@@ -162,5 +162,5 @@ function toReadable(number) {
     
 
 
-console.log(toReadable(804));
-toReadable(153);
+// console.log(toReadable(804));
+// toReadable(153);
